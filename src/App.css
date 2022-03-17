@@ -1,38 +1,67 @@
-.App {
-  text-align: center;
+.slider{
+    height: 445px;;
+    /* width: 669px; */
+    width: 100%;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.stripe-area {
+    margin-top: 120;
+    width: 68px;
+    height: 217px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+.one{
+    background-color: aqua;
+    height: 3rem;
+    width: 8rem;
+}
+.two{
+    background-color: aquamarine;
+    height: 1rem;
+    width: 1rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.cardimg{
+    height: 100%;
+    width: 100%;
+}
+.container{
+    border-radius: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.overlap{
+    position: relative;
+    margin-top: -30px;
+    opacity: 1;
+}
+Carousel{
+    z-index: -1;
 }
 
-.App-link {
-  color: #61dafb;
+.video{
+position: absolute;
+height:25rem;
+width: auto;
+left: auto;
+right: 0%;
+z-index: 3;
+opacity: .8;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.button{
+    border-radius: 3rem;
+    overflow: hidden;
+    border: 0px;
+}
+
+.latest{
+    height: 20rem;
+}
+.xyz{
+    background-color: aqua;
+    height: 12rem;
+    border-radius: 2rem;
 }
