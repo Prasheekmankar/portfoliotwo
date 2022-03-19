@@ -64,4 +64,8 @@ opacity: .8;
     background-color: aqua;
     height: 12rem;
     border-radius: 2rem;
+    object-fit: cover;
+}
+.klm{
+transition: 1s;
 }

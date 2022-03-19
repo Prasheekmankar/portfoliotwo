@@ -61,7 +61,7 @@ export function Latest() {
   
 <div className=" col-lg-8 col-md-8 offset-2 abc ">
         <div className=" row ">
-          <div className=" col-lg-4 col-md-8 p-2  ">
+          <div className=" col-lg-4 col-md-8 col-sm-6 p-2 klm ">
                <a href="https://appwrk.com/how-to-integrate-bootstrap-theme-in-react-application"> <img
                 className="cardimg xyz"
                 src="https://cdn.shopify.com/s/files/1/0548/8849/7221/files/VK_aba48b2c-ae46-4088-8dcf-11e00ec3e100.png?v=1645440485"
@@ -69,17 +69,17 @@ export function Latest() {
               />
               </a>
           </div>
-          <div className=" col-lg-8 col-md-4 p-2">
+          <div className=" col-lg-8 col-md-4 col-sm-6 p-2  klm ">
                <a href="https://appwrk.com/how-to-integrate-bootstrap-theme-in-react-application"> <img
                 className="cardimg xyz"
-                src="https://cdn.shopify.com/s/files/1/0548/8849/7221/files/VK_aba48b2c-ae46-4088-8dcf-11e00ec3e100.png?v=1645440485"
+                src="https://s3b.cashify.in/gpro/uploads/2021/09/14124708/AirBass-XPods-feature-image-1.jpg"
                 alt="speakers"
               />
               </a>
           </div>
         </div>
         <div className=" row ">
-          <div className=" col-lg-8 col-md-4 p-2">
+          <div className=" col-lg-8 col-md-4 col-sm-6 p-2  klm ">
                <a href="https://appwrk.com/how-to-integrate-bootstrap-theme-in-react-application"> <img
                 className="cardimg xyz"
                 src="https://cdn.shopify.com/s/files/1/0548/8849/7221/files/VK_aba48b2c-ae46-4088-8dcf-11e00ec3e100.png?v=1645440485"
@@ -87,7 +87,7 @@ export function Latest() {
               />
               </a>
           </div>
-          <div className=" col-lg-4 col-md-8 p-2">
+          <div className=" col-lg-4 col-md-8  col-sm-6 p-2  klm ">
                <a href="https://appwrk.com/how-to-integrate-bootstrap-theme-in-react-application"> <img
                 className="cardimg xyz"
                 src="https://cdn.shopify.com/s/files/1/0548/8849/7221/files/VK_aba48b2c-ae46-4088-8dcf-11e00ec3e100.png?v=1645440485"
